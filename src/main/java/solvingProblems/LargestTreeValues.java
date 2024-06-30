@@ -1,4 +1,4 @@
-package problem;
+package solvingProblems;
 
 import dataStructure.Tree;
 

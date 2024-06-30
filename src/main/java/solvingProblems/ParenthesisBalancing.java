@@ -1,4 +1,4 @@
-package problem;
+package solvingProblems;
 
 import java.util.Set;
 import java.util.Stack;

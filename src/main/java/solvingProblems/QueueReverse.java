@@ -1,4 +1,4 @@
-package problem;
+package solvingProblems;
 
 import java.util.LinkedList;
 import java.util.Queue;
