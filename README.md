@@ -1,4 +1,4 @@
-# Introduction to Data Structure | Santander Coders 2024 - Back-End
+# Introduction to Data Structures | Santander Coders 2024 - Back-End
 
 ### This repository contains the content of the Introduction to Data Structures course. This course covered the fundamentals of data structures and the bases for developing robust and efficient solutions, as well as examples and problem solving.
 
